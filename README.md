@@ -17,7 +17,7 @@
 ## SSH Config
 - copy %userprofile%\.ssh\config
 
-content of config
+contents of config
 ```
 # the_desc
 Host the_name
