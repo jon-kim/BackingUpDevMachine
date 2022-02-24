@@ -1,18 +1,21 @@
 # Backing Up Dev Machine
 
-## _Windows_
-
 ## Filezilla
 [Filezilla]
+- File -> Export
+- check Site Manager
 
 ## mRemoteNG
 [mRemoteNG]
+- File -> Export to File
 
 ## Notepad++
 [Notepad++]
+- copy %appdata%\notepad++
 
 ## Putty
 [Putty]
+- regedit /e "%USERPROFILE%\Desktop\putty.reg" HKEY_CURRENT_USER\Software\SimonTatham
 
 ## SSH Config
 - copy %userprofile%\.ssh\config
