@@ -1,20 +1,20 @@
 # Backing Up Dev Machine
 
 ## Filezilla
-[Filezilla]
+[Filezilla](https://filezilla-project.org/)
 - File -> Export
 - check Site Manager
 
 ## mRemoteNG
-[mRemoteNG]
+[mRemoteNG](https://mremoteng.org/)
 - File -> Export to File
 
 ## Notepad++
-[Notepad++]
+[Notepad++](https://notepad-plus-plus.org/)
 - copy %appdata%\notepad++
 
 ## Putty
-[Putty]
+[Putty](https://www.putty.org/)
 - regedit /e "%USERPROFILE%\Desktop\putty.reg" HKEY_CURRENT_USER\Software\SimonTatham
 
 ## SSH Config
